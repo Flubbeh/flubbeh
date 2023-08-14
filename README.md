@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Florian</h1>
 <h3 align="left">Aspiring web developer from Germany</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
